@@ -1,0 +1,15 @@
+[ERROR] 2020-02-27 22:30:21.248 [main] InterestCalculator - Enter the amount:
+[ERROR] 2020-02-27 22:30:35.812 [main] InterestCalculator - Enter the No.of years:
+[ERROR] 2020-02-27 22:30:40.151 [main] InterestCalculator - Enter the Rate of  interest
+[ERROR] 2020-02-27 22:30:46.921 [main] InterestCalculator - enter type of interest 
+1)simple_interest
+2)compound_interest
+
+[ERROR] 2020-02-27 22:30:49.575 [main] InterestCalculator - Simple interest =8000.0
+[ERROR] 2020-02-27 22:37:26.937 [main] InterestCalculator - enter total area
+[ERROR] 2020-02-27 22:37:39.936 [main] InterestCalculator - enter type of standard
+1)standard_material
+2)above_standard_material
+3)high_standard
+4)high&fullyautomated
+[ERROR] 2020-02-27 22:37:44.675 [main] InterestCalculator - Total cost =1800000.0
