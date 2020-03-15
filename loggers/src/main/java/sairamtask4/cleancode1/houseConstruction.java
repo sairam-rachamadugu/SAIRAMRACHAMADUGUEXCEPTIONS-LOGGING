@@ -9,7 +9,7 @@ public class houseConstruction {
 
 	public static void main( String[] args )
     {
-		Logger logger1=LogManager.getLogger(InterestCalculator.class);
+		Logger logger1=LogManager.getLogger(houseConstruction.class);
 
     	@SuppressWarnings("resource")
 		Scanner scanner=new Scanner(System.in);
